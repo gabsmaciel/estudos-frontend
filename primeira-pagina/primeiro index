@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UFT-8">
+        <title> Titulo da Pagina </title> </head>
+        
+<body>
+    <h1> Primeira leitura </h1>
+
+    <h2>Isso é um subtitulo</h2>
+
+    <p> Isso é um paragrafo. Com alterações com uso de Go Live. </p>
+
+    <img src="html.png" alt="Imagem ilustrativa do HTML5">
+
+    <p> Abaixo uma lista de exemplo de lista não ordernada. </p>
+    <ul>
+        <li>Característica 1</li>
+        <li>Característica 2</li>
+        <li>Característica 3</li>
+    </ul>
+
+</body>
+</html>
